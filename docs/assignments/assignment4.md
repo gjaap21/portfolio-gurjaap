@@ -90,4 +90,4 @@ app SafeSpace
 https://github.com/gjaap21/safespace-backend
 
 ## Deployed Service
-https://vercel.com/gjaap21s-projects/safespace-backend
+https://safespace-backend.vercel.app
