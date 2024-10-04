@@ -85,3 +85,9 @@ app SafeSpace
 
 ## Abstract Data Diagram
 ![Abstract Data Diagram](../../assets/images/abstractDataDiagram.png)
+
+## Backend Code Repo
+https://github.com/gjaap21/safespace-backend
+
+## Deployed Service
+https://vercel.com/gjaap21s-projects/safespace-backend
