@@ -33,7 +33,6 @@ https://vercel.com/gjaap21s-projects/safespace-frontend
 
 https://safespace-frontend-one.vercel.app
 
-https://safespace-frontend-ccfmd93qv-gjaap21s-projects.vercel.app/
+https://safespace-frontend-eiusededr-gjaap21s-projects.vercel.app
 
-
-Sorry I couldn't get it working on Vercel yet for some reason even though I had no issues when I did it with the backend. It doesn't load posts or do anything at all on Vercel but it works fine locally.
+Admin account for you guys to use when testing: user=gjaap, pass=secret123
