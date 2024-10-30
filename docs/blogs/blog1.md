@@ -1,5 +1,5 @@
 ---
-title: Blog 1 - TA Review Session Lecture
+title: TA Review Session Blog
 layout: doc
 ---
 
